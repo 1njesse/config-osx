@@ -1,15 +1,17 @@
 # config-osx
 
-karabiner.json - WIP Keyboard for Laptop/Desktop because OSX is bizarre.
-
+- karabiner.json - WIP Keyboard for Laptop/Desktop because OSX is bizarre.
+- Rest of Config files
+-
 ## Extensions
-
 - Rectangle.
 - Docker Desktop
 - Hyper Switch (meh)
 - HazeOver
+-
 
 
+ls
 ## Figuring Out
 
 Very confused with this workflow, OSX is like a one trick pony!
